@@ -1,19 +1,19 @@
 # Math-Game-Project
 This is a simple Python program that generates random math problems for the user to solve. The difficulty of the problems increases as the user answers more questions correctly.
 
-##Installation
+## Installation
 1. Clone the repository to your local machine.
 2. Install Python if you don't already have it installed.
 3. Run the program in your preferred Python IDE or from the command line.
 
-##Usage
+## Usage
 1. When you run the program, it will generate a math problem for you to solve.
 2. Type your answer into the command prompt and press enter.
 3. If you get the answer correct, the program will generate another problem that is slightly harder.
 4. If you get the answer wrong, the program will end and tell you your final score.
 
 
-##Contributing
+## Contributing
 If you would like to contribute to this project, you can:
 
 1. Fork the repository.
