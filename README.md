@@ -1,6 +1,13 @@
 # Math-Game-Project
 This is a simple Python program that generates random math problems for the user to solve. The difficulty of the problems increases as the user answers more questions correctly.
 
+## Working
+
+
+
+https://user-images.githubusercontent.com/103416699/220597330-0ef49ae8-ac72-4b0b-b9fa-f0672a3b82e6.mp4
+
+
 ## Installation
 1. Clone the repository to your local machine.
 2. Install Python if you don't already have it installed.
